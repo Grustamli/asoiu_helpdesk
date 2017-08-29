@@ -69,8 +69,6 @@ public class DepartmentManager {
         return departments;
     }
 
-    public static void update(Department bean){}
-
     public static void delete(int id){}
 
 
